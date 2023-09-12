@@ -1,0 +1,6 @@
+name: RodoCraftPrimary
+version: '${project.version}'
+main: rodocraftprimary.rodocraftprimary.RodoCraftPrimary
+api-version: "1.20"
+authors: [ Rodoro ]
+description: The main plugin of the minecraft server is RodoCraft
